@@ -12,3 +12,4 @@ variable "instance_class" {}
 variable "no_of_instances" {}
 
 variable "database_name" {}
+
