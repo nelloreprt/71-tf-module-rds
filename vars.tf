@@ -13,3 +13,5 @@ variable "no_of_instances" {}
 
 variable "database_name" {}
 
+variable "vpc_id" {}
+variable "allow_subnets" {}
